@@ -22,3 +22,6 @@
 [0304/223743.128:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
 [0304/223743.132:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
 [0304/223743.166:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0306/123303.877:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0306/123303.893:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0306/123303.895:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
