@@ -42,3 +42,11 @@ body{
 {
     background-color: #512Da8;
 }
+
+.tab-content{
+    border-left: 1px solid #dddddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+
+}
